@@ -12,3 +12,4 @@
 /home/alpha7/Downloads/SoundFy-POO/SoundFy-POO/obj/Debug/net10.0/SoundFy-POO.pdb
 /home/alpha7/Downloads/SoundFy-POO/SoundFy-POO/obj/Debug/net10.0/SoundFy-POO.genruntimeconfig.cache
 /home/alpha7/Downloads/SoundFy-POO/SoundFy-POO/obj/Debug/net10.0/ref/SoundFy-POO.dll
+/home/alpha7/Downloads/SoundFy-POO/SoundFy-POO/obj/Debug/net10.0/SoundFy-POO.sourcelink.json
