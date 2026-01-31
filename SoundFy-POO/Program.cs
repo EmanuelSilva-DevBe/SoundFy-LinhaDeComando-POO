@@ -1,8 +1,18 @@
-﻿Musica musica1 = new Musica();
+﻿using SoundFy_POO;
 
-musica1.Nome = "Anastasia";
-musica1.Artista = "Slash";
-musica1.Duracao = 300;
-musica1.Disponivel = true;
+Album album1 = new Album();
 
-musica1.exibirDados();
+album1.NomeAlbum = "Homem litúrgico";
+
+Musica musica1 = new Musica();
+musica1.Nome = "Até outra vez";
+musica1.Duracao = 232;
+
+Musica musica2 = new Musica();
+musica2.Nome = "Confissões";
+musica2.Duracao = 192;
+
+album1.AdicionarMusica(musica1);
+album1.AdicionarMusica(musica2);
+
+album1.ListarMusicas();
