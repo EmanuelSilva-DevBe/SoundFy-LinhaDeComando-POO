@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoundFy-POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4d08c752db401ea467be681c2d31dd9fb432c8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoundFy-POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoundFy-POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
